@@ -5,8 +5,6 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Enthusiastic student enrolled in Software Developer track at Bloc, seeking to make connections with peers and professionals in the software development field. 
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+As a student at Bloc, I am in the process of mastering front-end programming with HTML5, CSS3, command line, Git, GitHub, JavaScript (native, jQuery and Angular) and Firebase. As the course progresses I will be learning object oriented programming, basic programming mechanisms, and best practices for application development using Ruby on Rails.
