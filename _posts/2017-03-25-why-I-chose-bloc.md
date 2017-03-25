@@ -1,0 +1,10 @@
+---
+layout: post
+title: Why I Chose Bloc
+---
+
+Anyone who is looking to change their career and is interested in pursuing software development or web development knows the long list of possible programs that exist. Which in turn creates a long list of questions that you need to ask yourself. Should I go for the traditional 4 year college degree? Should I narrow in on a particular type of programming specialty and attend a boot camp? If I do a boot camp program will potential employers hire me over the perfect on paper Stanford grad? And the list goes on and on. I ended up asking my friends and family for their take on it. Naturally they all had varying opinions leaving me even more confused than I was before. None the less if you know someone that works in this field ask them for their opinion. At the very least they will fill you in on what you should expect during and after your journey. 
+
+The obvious first step is to decide between college and boot camp. I asked myself, can I commit 4 years of my life to this program and can I afford it. More importantly will I get accepted to a reputed college? Personally for me that was too much of a time commitment so I choose to focus on short term programs. To be absolutely clear before I started my program at Bloc I had never had any experience doing anything remotely tech related. Unless you count hooking up a printer. So, a 12-15 week boot camp wasn’t for me. I am sure there are people out there that can learn things at an accelerated rate, not me. Bloc programs are both long enough and short enough. You have time to absorb the material you are learning, although not as much time as you would have with a normal college course. That’s the one major tradeoff. However, Bloc does have plus points like one on one mentor sessions, career support and help building a portfolio. After weighting the pros and cons, I went with the Software Developer Track.
+
+Would I recommend Bloc to others?  That’s something I will update everyone on once I am done with my program. 
