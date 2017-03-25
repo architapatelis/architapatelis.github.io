@@ -6,13 +6,14 @@ thumbnail-path: "img/bloc-jams.png"
 short-description: Bloc Jams is a dynamic music player built using AngularJS
 
 ---
+
 #### SUMMARY
 
 Bloc Jams is a digital music player similar to Spotify. Interactivity in the application was initially implemented using native JavaScript. To make it more efficient the code was refactored with jQuery and AngularJS.  
 
 #### EXPLANATION
 
-After learning the fundamentals of HTML, CSS and native JavaScript building this dynamic music player app was my first project as a Bloc student. Early on in the project I was given the necessary code to start linking the various components of this app. At that stage my primary objective was to understand the code and how it affects the interactivity of the app. With time I was able to develope a better understanding of how CSS transitions can be used to animate the appearance of an application and how I can use DOM selectors to perform actions on elements in a web app. 
+After learning the fundamentals of HTML, CSS and native JavaScript building this dynamic music player app was my first project as a Bloc student. Early on in the project I was given the necessary code to start linking the various components of this app. At that stage my primary objective was to understand the code and how it affects the interactivity of the app. With time I was able to develop a better understanding of how CSS transitions can be used to animate the appearance of an application and how I can use DOM selectors to perform actions on elements in a web app. 
 Experience with DOM scripting is essential for all web developers but in addition to that it is also important to learn how to use helper libraries such as jQuery and frameworks such as AngularJS. 
 
 I used jQuery to refactor the native JavaScript I had implemented thus far. Refactoring made the code simple, clean and efficient by allowing me to replace many lines of JavaScript with a single line of jQuery code. 
