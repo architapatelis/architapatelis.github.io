@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a Alexa Trivia Skill
+title: Creating Alexa Skills
 ---
 
 As many of you know Amazon's Echo and Dot devices use the Alexa Voice Service(AVS) to allow users to play music, get the latest news updates, book vacations, order food, set alarms, make a to-do list, and more. As a student I was very interested in the concept but, aside from watching the Alexa commercial and seeing some Alexa related Youtube videos I had no real knowledge of how it all works. In order to create the Voice User Interface(VUI), it's important to understand how AVS works, how do we interact with it, what do the terms _intent_ and _utterances_ mean. Luckily Amazon has several sample projects on GitHub to help developers get started. To understand Alexa Skill development at a rudimentary level, I created two simple skills, [General Knowledge Trivia](https://github.com/architapatelis/alexa-trivia-skill-general-knowledge) (based on Amazon's [Sample Trivia Skill](https://github.com/alexa/skill-sample-nodejs-trivia)) and [Bee Facts](https://github.com/architapatelis/alexa-fact-skill) (based on Amazon's [Sample Facts Skill](https://github.com/alexa/skill-sample-nodejs-fact)). These sample projects are all based on a copy/paste approach, they walk you through Alexa skill setup in Amazon Developer Portal and how to create and link your Lambda Function to your newly created skill in the Developer Portal.
