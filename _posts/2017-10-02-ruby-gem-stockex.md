@@ -17,7 +17,7 @@ This was though to figure out, if you visit [RubyGems.org](https://rubygems.org/
 
 If you would like to follow along here is the source code on github: [Stockex](https://github.com/architapatelis/stockex)
 
-# Getting Started
+## Getting Started
 
 If you are going to build a gem that relies on an API do your research: is the API free or do you have to pay for it? What is the API call frequency? What is the format(JSON/CSV/XML) of the response? What are the values in the response, and how can you use them? I decided to use [Alpha Vantage](https://www.alphavantage.co/) their API is simple, easy to use and gives all the necessary values.
 
@@ -71,7 +71,7 @@ You are now ready to make your _initial commit_ and push the files to your remot
 
 Note: As you work on your project it's best to create new branches for each group of tasks.
 
-# Creating a file structure
+## Creating a file structure
 
 Now that you have a basic layout it's time to create some files and decide where the code should be placed.
 
@@ -133,7 +133,7 @@ spec.files         = Dir['lib/stockex.rb', 'lib/**/*.rb']
 
 If I didn't place `lib/stockex.rb` in there, then the gem wouldn't be able to configure the API key. If you are not placing any code within this file then you don't have to include it in `spec.files`.
 
-# Ready to Build Your Gem!
+## Ready to Build Your Gem!
 
 Now you have some code, so you can test it out locally or use it as a gem in a ruby app. Simply use `rake install` to build your gem.
 
