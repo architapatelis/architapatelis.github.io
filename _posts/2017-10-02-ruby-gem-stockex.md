@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Source Project: Ruby Gem Stockex
+title: Open Source Project - Ruby Gem Stockex
 ---
 
 As a student at Bloc I had to create an open source project and so I decided to write a Ruby gem. That was the easy part, I had to then figure out what I want my gem to do, and what goals do I want to achieve with this project.
