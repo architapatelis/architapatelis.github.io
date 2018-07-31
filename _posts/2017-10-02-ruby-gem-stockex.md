@@ -8,6 +8,7 @@ As a student at Bloc I had to create an open source project and so I decided to 
 #### The Goals:
 
   - To test my knowledge of some of the things I had learned so far in Ruby.
+  - To make a meaningful contribution to the open source community.
   - To create a simple gem that other students can understand and if they'd like use as a model for their project.
   - To use the gem for some task I do in my personal life.
 
